@@ -28,5 +28,3 @@ function flatten(...data) {
     [],
   );
 }
-
-console.log(flatten([1, [2, [3, [4]]]]));
